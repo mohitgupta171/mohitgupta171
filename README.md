@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/265904235/46eef600-9bab-11ea-87d9-ff5e73c39b97)]
+![MasterHead](https://static.vecteezy.com/system/resources/previews/009/233/542/non_2x/data-analysis-banner-web-icon-set-analytics-search-data-mining-data-filter-pie-chart-and-etc-illustration-concept-vector.jpg)
 <h1 align="center">Hi 👋, I'm Mohit Gupta</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
