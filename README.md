@@ -1,4 +1,4 @@
-# Hi, I'm Shanthi Priya! 👋
+# Hi, I'm Mohit Gupta! 👋
 
 
 ## 🚀 About Me
